@@ -4,6 +4,6 @@ public class Sum {
         int y=20;
         int sum;
         sum = x + y;
-        System.out.println("The Sum of two Numbers: " + sum);
+        System.out.println("The Sum of two Numbers "+x+" and +y+" = " + sum);
     }
 }
